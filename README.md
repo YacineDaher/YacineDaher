@@ -8,7 +8,7 @@
 -->
 
 <div align="center">
-  <img src="./assets/profile-banner.svg" alt="Mohammed Yacine Daher — Software Engineering Student, Java and Spring Boot" width="100%" />
+  <img src="./profile-banner.svg" alt="Mohammed Yacine Daher — Software Engineering Student, Java and Spring Boot" width="100%" />
   <br />
   <p>
     <img src="https://img.shields.io/badge/FOCUS-Java%20%26%20Spring%20Boot-344455?style=flat-square" alt="Focus: Java and Spring Boot" />
