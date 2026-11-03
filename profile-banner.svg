@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+  <title id="title">Mohammed Yacine Daher — Software Engineering Student</title>
+  <desc id="desc">A minimal, cool blue-grey banner with abstract code-inspired lines and a subtle grid.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#111923"/>
+      <stop offset="0.52" stop-color="#1B2835"/>
+      <stop offset="1" stop-color="#273849"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#8EA5B8" stop-opacity="0.15"/>
+      <stop offset="0.5" stop-color="#C1D0DC" stop-opacity="0.85"/>
+      <stop offset="1" stop-color="#8EA5B8" stop-opacity="0.15"/>
+    </linearGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" fill="none" stroke="#AFC0CE" stroke-opacity="0.075" stroke-width="1"/>
+    </pattern>
+    <filter id="blur"><feGaussianBlur stdDeviation="26"/></filter>
+  </defs>
+  <rect width="1200" height="340" rx="22" fill="url(#bg)"/>
+  <rect width="1200" height="340" rx="22" fill="url(#grid)"/>
+  <ellipse cx="1010" cy="95" rx="190" ry="105" fill="#8199AD" opacity="0.13" filter="url(#blur)"/>
+  <ellipse cx="770" cy="300" rx="200" ry="80" fill="#71879A" opacity="0.10" filter="url(#blur)"/>
+
+  <!-- Abstract terminal / architecture motif -->
+  <g fill="none" stroke="#AFC0CE" stroke-width="1.5" opacity="0.27">
+    <path d="M790 75h250a12 12 0 0 1 12 12v145a12 12 0 0 1-12 12H790a12 12 0 0 1-12-12V87a12 12 0 0 1 12-12Z"/>
+    <path d="M778 106h274"/>
+    <circle cx="800" cy="91" r="3" fill="#AFC0CE" stroke="none"/>
+    <circle cx="814" cy="91" r="3" fill="#AFC0CE" stroke="none"/>
+    <circle cx="828" cy="91" r="3" fill="#AFC0CE" stroke="none"/>
+    <path d="m815 139 13 10-13 10m26 0h35m-61 29 13 10-13 10m26 0h67" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M1000 145h24m-24 18h15m-15 18h29" stroke-linecap="round"/>
+    <path d="M1080 120v132m-24 0h48" stroke-dasharray="4 7"/>
+  </g>
+  <g fill="none" stroke="url(#accent)" stroke-width="2">
+    <path d="M720 280h360"/>
+    <path d="M900 55h205"/>
+    <path d="M1100 55v40"/>
+  </g>
+  <g fill="#B8C8D5" opacity="0.34">
+    <circle cx="1095" cy="278" r="2"/><circle cx="1120" cy="278" r="2"/><circle cx="1145" cy="278" r="2"/>
+  </g>
+
+  <g font-family="Inter, Segoe UI, Arial, sans-serif">
+    <text x="76" y="104" fill="#9EAFBD" font-size="15" letter-spacing="4">SOFTWARE ENGINEERING · EMSI CASABLANCA</text>
+    <text x="72" y="169" fill="#E4EBF1" font-size="43" font-weight="650" letter-spacing="0.3">MOHAMMED YACINE DAHER</text>
+    <text x="76" y="211" fill="#B7C6D2" font-size="22" letter-spacing="0.4">Java  ·  Spring Boot  ·  Backend Development</text>
+    <rect x="76" y="249" width="88" height="3" rx="1.5" fill="#A9BBC9" opacity="0.75"/>
+    <text x="76" y="284" fill="#91A4B4" font-size="15" letter-spacing="1.5">BUILDING WITH CURIOSITY, ONE STEP AT A TIME.</text>
+  </g>
+</svg>
