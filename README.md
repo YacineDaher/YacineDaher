@@ -6,7 +6,7 @@
 
 🎯 **Looking for a 6-month end-of-studies internship (PFE) starting February 2027**, in Morocco or abroad, on back-end or full-stack Java projects.
 
-💼 [LinkedIn](https://linkedin.com/in/mohammed-yacine-daher) · ✉️ [yacine.daher4@gmail.com](mailto:yacine.daher4@gmail.com)
+🌐 **Portfolio:** [yacinedaher.github.io](https://yacinedaher.github.io) · 💼 [LinkedIn](https://linkedin.com/in/mohammed-yacine-daher) · ✉️ [yacine.daher4@gmail.com](mailto:yacine.daher4@gmail.com)
 
 ---
 
